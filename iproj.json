@@ -1,0 +1,15 @@
+{
+  "repository": "git@github.com:aecspades/arcad-example3.git",
+  "extensions": {
+    "arcad": {
+      "code": "AX3",
+      "libraryPrefix": "AX3",
+      "validated": true,
+      "iasp": ""
+    }
+  },
+  "description": "",
+  "objlib": "&verlibax3",
+  "buildCommand": "elias compile {branch}",
+  "compileCommand": "elias compile {branch} -f {filename}"
+}
