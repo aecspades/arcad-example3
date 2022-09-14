@@ -12,4 +12,5 @@
                                             COLHDG('DELIVERY' 'DATE')
                   ORDATCLO       8  0       TEXT('CLOSE DATE')
                                             COLHDG('CLOSE' 'DATE')
-                  NEWFLD         9  0  
+                  NEWFLD        10  0 
+                  
