@@ -2,7 +2,7 @@
   "repository": "git@github.com:aecspades/arcad-example3.git",
   "extensions": {
     "arcad": {
-      "code": "AX3",
+      "code": "AX4",
       "libraryPrefix": "AX3",
       "validated": true,
       "iasp": ""
