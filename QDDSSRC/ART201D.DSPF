@@ -31,7 +31,7 @@
      A  80                                  SFLEND(*MORE)
      A                                      SFLSIZ(0015)
      A                                      SFLPAG(0014)
-     A  35                                  SFLMSG('Invalid Option' 35)
+     A  35                                  SFLMSG('Invalid Option12' 35)
      A            RRB01          4S 0H      SFLRCDNBR
      A                                  1  2'ART201-1'
      A                                      COLOR(BLU)
