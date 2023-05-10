@@ -5,7 +5,7 @@
                                             UNIQUE
                 R FFAMI
                   FAID      R
-                  FADESC    R
+                  FADESC        32 
                   FAVATCD   R               REFFLD(VATCODE)
                                             TEXT('DFT VAT CODE')
                                             COLHDG('DFT' 'VAT' 'CD')
