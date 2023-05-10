@@ -4,7 +4,7 @@
       *=============================================
       * Get FAMILLY DESCRIPTION
       *=============================================
-     DGetArtFamDesc    PR            32
+     DGetArtFamDesc    PR            50
      D FAID                           3     value
       *=============================================
       * Ckeck if familly exist
