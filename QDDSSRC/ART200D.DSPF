@@ -24,7 +24,7 @@
      A*%%TS  SD  20161201  100943  VTAQUIN     REL-V7R1M0  5770-WDS
      A                                      SFLSIZ(0015)
      A                                      SFLPAG(0014)
-Update     A N80                                  PAGEDOWN(25 'dynamic subfile1')
+Update     A N80                                  PAGEDOWN(25 'dynamic subfile2')
      A                                      CF06(06 'Create')
      A                                      OVERLAY
      A  31                                  SFLDSP
